@@ -83,7 +83,7 @@ Incorrect. The correct answer is 27.
 Your score: 2 out of 3
 ```
 ### Built With
-Python 3.x
+Python 3.12.5
 
 Visual Studio Code 
 
